@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MT3608")(type "KiCad")(uri "G:/Solar Induction/MT3608/MT3608.pretty")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "G:/Solar Induction/TP4056.pretty")(options "")(descr ""))
+  (lib (name "SD card module")(type "KiCad")(uri "G:/Solar Induction/SD card & RTC/SD card module.pretty")(options "")(descr ""))
+)

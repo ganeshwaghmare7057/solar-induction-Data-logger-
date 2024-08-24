@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tp4056")(type "KiCad")(uri "G:/Solar Induction/TP4056/tp4056.kicad_sym")(options "")(descr ""))
+  (lib (name "MT3608")(type "KiCad")(uri "G:/Solar Induction/MT3608/MT3608.kicad_sym")(options "")(descr ""))
+  (lib (name "SD card module")(type "KiCad")(uri "G:/Solar Induction/SD card module.kicad_sym")(options "")(descr ""))
+)
